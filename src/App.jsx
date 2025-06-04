@@ -206,7 +206,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "https://ude.my/UC-33563107-5384-493b-8b87-ba9307ee7f63",
       description: "66-hour bootcamp covering HTML, CSS, JS, Bootstrap, DOM, basic React.",
-      imageSrc: "./public/Web Development Udemy.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Web%20Development%20Udemy.png?raw=true", 
       imageAlt: "Udemy Web Development Bootcamp Certificate",
     },
     {
@@ -216,7 +216,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "https://freecodecamp.org/certification/AbhiCoder08/responsive-web-design",
       description: "300-hour course on HTML5, CSS3, Flexbox, Grid, media queries.",
-      imageSrc: "/public/certificates/Responsive web design Freecodecamp.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Responsive%20web%20design%20Freecodecamp.png?raw=true", 
       imageAlt: "freeCodeCamp Responsive Web Design Certificate",
     },
     {
@@ -226,7 +226,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#", 
       description: "Theoretical and practical understanding of Python Data Structures.",
-      imageSrc: "/public/certificates/Python Data Structure Sololearn.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Python%20Data%20Structure%20Sololearn.png?raw=true", 
       imageAlt: "Sololearn Python Data Structures Certificate",
     },
     {
@@ -236,7 +236,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#",
       description: "Theoretical and practical understanding of SQL.",
-      imageSrc: "/public/certificates/Sql SOlolearn.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Sql%20SOlolearn.png?raw=true", 
       imageAlt: "Sololearn SQL Certificate",
     },
     {
@@ -246,7 +246,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#",
       description: "Theoretical understanding of CSS.",
-      imageSrc: "/public/certificates/Css Sololearn.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Css%20Sololearn.png?raw=true", 
       imageAlt: "Sololearn CSS Certificate",
     },
     {
@@ -266,7 +266,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "https://verify.greatlearning.in/DUBFWLAG", 
       description: "Free online course in Front-end HTML Development.",
-      imageSrc: "/public/certificates/Screenshot 2025-05-30 184536.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Screenshot%202025-05-30%20184536.png?raw=true", 
       imageAlt: "Great Learning HTML Certificate",
     },
     {
@@ -276,7 +276,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#", 
       description: "Theoretical understanding of Web Development Fundamentals.",
-      imageSrc: "/public/certificates/Web Devlopment Sololearn.png",
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/Web%20Devlopment%20Sololearn.png?raw=true",
       imageAlt: "Sololearn Web Development Fundamentals Certificate",
     },
   ];
