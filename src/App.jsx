@@ -196,7 +196,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#", 
       description: "Practical and Theoretical understanding of IT ,Web Technology, C Language, ICT  Fundamentals.",
-      imageSrc: "/public/certificates/OLEVEL.jpg",
+      imageSrc: "/public/OLEVEL.jpg",
       imageAlt: "'O' Level Diploma Degree",
     },
     {
