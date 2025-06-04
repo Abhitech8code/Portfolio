@@ -256,7 +256,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#", 
       description: "2h 45m course on HTML essentials.",
-      imageSrc: "/public/certificates/HTML Linkedin.png", 
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/HTML%20Linkedin.png?raw=true", 
       imageAlt: "LinkedIn Learning HTML Certificate",
     },
     {
