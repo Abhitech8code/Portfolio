@@ -206,7 +206,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "https://ude.my/UC-33563107-5384-493b-8b87-ba9307ee7f63",
       description: "66-hour bootcamp covering HTML, CSS, JS, Bootstrap, DOM, basic React.",
-      imageSrc: "/public/certificates/Web Development Udemy.png", 
+      imageSrc: "./public/Web Development Udemy.png", 
       imageAlt: "Udemy Web Development Bootcamp Certificate",
     },
     {
