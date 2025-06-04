@@ -196,7 +196,7 @@ const App = () => {
       icon: <Award className="w-10 h-10 text-yellow-500 dark:text-yellow-400" />,
       link: "#", 
       description: "Practical and Theoretical understanding of IT ,Web Technology, C Language, ICT  Fundamentals.",
-      imageSrc: "https://img.freepik.com/premium-photo/cyber-boy-pictures-cute-cyber-boy-image-download-hd_846390-3657.jpg?uid=R157439276&ga=GA1.1.390215850.1702361898&semt=ais_items_boosted&w=740",
+      imageSrc: "https://github.com/Abhitech8code/Portfolio/blob/main/public/OLEVEL.jpg?raw=true",
       imageAlt: "'O' Level Diploma Degree",
     },
     {
